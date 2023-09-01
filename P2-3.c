@@ -1,8 +1,9 @@
-//3- Dado un número introducido por el usuario, indicar si este es positivo, negativo o nulo.
+// 3- Dado un número introducido por el usuario, indicar si este es positivo, negativo o nulo.
 
 #include <stdio.h>
 
-int main(){
+int main()
+{
     float num;
 
     printf("Ingrese un numero: \n");
@@ -16,7 +17,8 @@ int main(){
     {
         printf("%.2f es negativo\n", num);
     }
-    else {
+    else
+    {
         printf("El numero es igual a 0\n");
     }
     return 0;
