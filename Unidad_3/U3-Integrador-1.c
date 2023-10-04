@@ -1,5 +1,5 @@
 /*
-La compañía que gestiona la autopista ha decidido cambiar las tarifas de peaje. 
+La compañía que gestiona la autopista ha decidido cambiar las tarifas de peaje.  
 Estas tarifas dependen de:
 ● Tipo de vehículo (camión, automóvil o moto) que desee utilizar la autopista.
 ● Número de pasajeros que lleve.
