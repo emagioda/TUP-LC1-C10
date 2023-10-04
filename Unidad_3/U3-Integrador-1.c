@@ -3,7 +3,7 @@ La compañía que gestiona la autopista ha decidido cambiar las tarifas de peaje
 Estas tarifas dependen de:
 ● Tipo de vehículo (camión, automóvil o moto) que desee utilizar la autopista.
 ● Número de pasajeros que lleve.
-● Tipo horario del día:
+● Tipo horario del día: 
     Horario A: horas de “Alta” congestión:
         ● Los automóviles con tres pasajeros o más no pagan peaje
         ● Los camiones pagan $300
