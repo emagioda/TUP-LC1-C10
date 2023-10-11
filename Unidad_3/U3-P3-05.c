@@ -1,4 +1,4 @@
-// Generar un bucle infinito.
+// Generar un bucle infinito
 
 #include <stdio.h>
 
