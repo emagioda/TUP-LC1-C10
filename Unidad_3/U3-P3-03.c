@@ -1,4 +1,4 @@
-// Imprimir los números del 10 al 1 uno abajo del otro.
+// Imprimir los números del 10 al 1 uno abajo del otro
 
 #include <stdio.h>
 
