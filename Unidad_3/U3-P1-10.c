@@ -1,7 +1,7 @@
 /*
 Pedir al usuario que ingrese un número del 1 al 12 e indicar a qué mes corresponde dicho número 
 (por ejemplo: si ingresa el número 2 se deberá mostrar febrero en la consola, si ingresa el 8, agosto, etc.) 
-(realizar el ejercicio primero utilizando estructura if y luego estructura switch).
+(realizar el ejercicio primero utilizando estructura if y luego estructura switch)
 */
 
 #include <stdio.h>
