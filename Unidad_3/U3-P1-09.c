@@ -1,5 +1,9 @@
-// Escribir un algoritmo que pida la altura de una persona, si la altura es menor o igual a 150 cm envíe el mensaje: “Persona de altura por debajo de la media”; si la altura está entre 151 y 170 escriba el mensaje: “Persona de altura media” y si la altura es mayor al 170 escriba el mensaje: “Persona de altura por arriba de la media”
-
+/*
+Escribir un algoritmo que pida la altura de una persona, 
+Si la altura es menor o igual a 150 cm envíe el mensaje: “Persona de altura por debajo de la media”
+Si la altura está entre 151 y 170 escriba el mensaje: “Persona de altura media”
+Si la altura es mayor al 170 escriba el mensaje: “Persona de altura por arriba de la media”
+*/
 #include <stdio.h>
 
 int main(){
