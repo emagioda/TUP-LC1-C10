@@ -1,6 +1,6 @@
 /*
 Imprimir por consola 10 veces el carácter @, de manera que se visualice la siguiente
-salida:
+salida
 @
 @
 @
