@@ -1,4 +1,4 @@
-// 3- Dado un número introducido por el usuario, indicar si este es positivo, negativo o nulo. 
+// 3- Dado un número introducido por el usuario, indicar si este es positivo, negativo o nulo 
 
 #include <stdio.h>
 
