@@ -22,8 +22,8 @@ Estas tarifas dependen de:
     En este horario la tarifa es independientemente del número de pasajeros.
 
 Escriba un programa que leyendo el tipo de vehículo, tipo de horario de congestión alta o baja
-y el número de pasajeros, calcule la tarifa que le debe cobrar a un vehículo. Validar que el tipo
-de vehículo sea uno de los mencionados y que el número de pasajeros no sea mayor a 5.
+y el número de pasajeros, calcule la tarifa que le debe cobrar a un vehículo. 
+Validar que el tipo de vehículo sea uno de los mencionados y que el número de pasajeros no sea mayor a 5.
 */
 
 #include <stdio.h>
