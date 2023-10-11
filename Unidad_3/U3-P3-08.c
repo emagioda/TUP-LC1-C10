@@ -1,4 +1,4 @@
-// Escriba un programa que lea un número n1, y escriba la tabla de multiplicar del número.
+// Escriba un programa que lea un número n1, y escriba la tabla de multiplicar del número
 
 #include <stdio.h>
 
