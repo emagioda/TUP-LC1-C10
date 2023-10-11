@@ -1,4 +1,4 @@
-// Imprimir la suma de los números impares que se encuentran entre los números 1 y 10.
+// Imprimir la suma de los números impares que se encuentran entre los números 1 y 10
 
 #include <stdio.h>
 
