@@ -1,6 +1,6 @@
 /*
 Se desea leer las calificaciones de 5 alumnos, por cada alumno se leen 3 calificaciones.
-Mostrar el promedio por alumno y el promedio general
+Mostrar el promedio por alumno y el promedio general.
 */
 
 #include <stdio.h>
