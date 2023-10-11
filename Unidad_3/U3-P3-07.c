@@ -1,4 +1,4 @@
-// Diseñe un algoritmo que sume los 20 primeros números impares.
+// Diseñe un algoritmo que sume los 20 primeros números impares
 
 #include <stdio.h>
 
