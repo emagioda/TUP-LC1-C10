@@ -1,4 +1,4 @@
-// Escriba un programa que escriba la tabla de multiplicar del 1, 2,....,9
+// Escriba un programa que escriba la tabla de multiplicar del 1, 2,....,9.
 
 #include <stdio.h>
 
