@@ -1,4 +1,4 @@
-// Suma de los 10 primeros números múltiplos de tres.
+// Suma de los 10 primeros números múltiplos de tres
 
 #include <stdio.h>
 
@@ -12,6 +12,5 @@ int main()
     }
 
     printf("La suma de los 10 primeros números múltiplos de tres es: %i\n", suma);
-
     return 0;
 }
