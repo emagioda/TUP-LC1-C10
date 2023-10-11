@@ -9,7 +9,7 @@ Luego, requerir al usuario que seleccione el medio de pago:
     2-American Express
     3-Mercado Pago
     4-Cabal.
-Además, requerir la cantidad de cuotas en las que abonará (1, 3, 6 o 12). 
+Además, requerir la cantidad de cuotas en las que abonará (1, 3, 6 o 12) 
 El interés por pagar en cuotas será de: 
 - 0 interés para efectivo o 1 cuota
 - 4% para 3 cuotas 
