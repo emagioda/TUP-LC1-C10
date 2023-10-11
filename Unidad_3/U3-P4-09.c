@@ -2,8 +2,8 @@
 Realizar un programa que permita ver información a un cliente de un banco. Para ello
 el cliente deberá ingresar su usuario (número de DNI) y contraseña (número entero),
 validar que los datos ingresados sean correctos, se permitirá al cliente 3 intentos de
-ingreso de contraseña. Al loguarse correctamente presentar un menú con las
-siguientes opciones:
+ingreso de contraseña. Al loguarse correctamente presentar un menú con las siguientes 
+opciones:
 1- Consultar saldo
 2- Consultar CBU
 3- Salir
