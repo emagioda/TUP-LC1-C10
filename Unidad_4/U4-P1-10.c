@@ -1,6 +1,6 @@
 /*
 Escriba un programa que lea una matriz cuadrada la presente en pantalla, y presente
-la suma de todos los números que no están en la diagonal principal. 
+la suma de todos los números que no están en la diagonal principal
 */
 
 #include <stdio.h>
