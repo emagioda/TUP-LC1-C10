@@ -1,6 +1,6 @@
 /*
-Declarar un array de tipo entero de 5 componentes, asignarles un valor, mostrar la
-suma de sus componentes y el promedio.
+Declarar un array de tipo entero de 5 componentes, asignarles un valor, mostrar
+la suma de sus componentes y el promedio.
 */
 
 #include <stdio.h>
