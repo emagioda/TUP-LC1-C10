@@ -17,7 +17,7 @@ Donde la opcion:
    Si el DNI ingresado no existe, informar la situación con un mensaje “DNI inexistente”,
    si el DNI si se encuentra, modificar la nota del alumno por la ingresada.
 4- Debe mostrar en la consola el listado de alumnos.
-SÓLO se saldrá de la aplicación si se selecciona la opción 5
+SÓLO se saldrá de la aplicación si se selecciona la opción 5.
 */
 
 #include <stdio.h>
