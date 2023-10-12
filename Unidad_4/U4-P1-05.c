@@ -5,7 +5,7 @@ Cada ítem del vector representa la inflación de un mes de tal manera que el pr
 que es 0.9 representa la inflación de diciembre. Se pide:
     a. Informar la inflación anual
     b. Informar la inflación más baja, junto con el nro. de mes. Ej: Mes 2 = 0.1
-    c. Informar la inflación más alta, junto con el nro. de mes. Ej: Mes 12 = 0.9 
+    c. Informar la inflación más alta, junto con el nro. de mes. Ej: Mes 12 = 0.9 .
 */
 
 #include <stdio.h>
