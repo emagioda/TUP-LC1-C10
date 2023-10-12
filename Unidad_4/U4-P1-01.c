@@ -1,6 +1,6 @@
 /*
 Declarar un array de tipo entero de 5 elementos, asignarles un valor, mostrar de la
-forma: “Índice: X, Valor: Y” en el orden ingresado y de atrás hacia adelante. 
+forma: “Índice: X, Valor: Y” en el orden ingresado y de atrás hacia adelante 
 */
 
 #include <stdio.h>
