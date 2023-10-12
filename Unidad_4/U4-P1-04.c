@@ -1,6 +1,6 @@
 /*
 Dado el vector {10, 20, 5, 15, 30, 20}
-    a. Informar el vector de la forma: "Indice: X, Valor: Y".
+    a. Informar el vector de la forma: "Indice: X, Valor: Y"
     b. Totalizar el vector e informar el total.
     c. Informar el contenido de las posiciones impares.
     d. Informar las posiciones que contienen números impares.
