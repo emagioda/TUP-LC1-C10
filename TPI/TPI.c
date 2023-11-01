@@ -10,13 +10,11 @@ struct usuario
     int estado;      // Número entero (0 o 1).
 };
 
-int cantClientes = 10; // Cantidad de clientes.
+// int cantClientes = 10; // Cantidad de clientes.
 
 // Carga el arreglo con datos de clientes.
-void carga()
+void carga(struct usuario cliente[])
 {
-    struct usuario cliente[cantClientes]; // array de clientes.
-
     // Cliente 1
     cliente[0].nroCuenta = 695;
     cliente[0].clave = 1126;
@@ -89,7 +87,7 @@ void carga()
 }
 
 // Devuelve 1 si el ususario puede iniciar sesión, 0 en caso contrario.
-int sesion()
+int sesion(struct usuario cliente[])
 {
     int inicio = 0;
 
@@ -111,7 +109,7 @@ void menu()
     printf("6. Salir de la Sesión.\n");
 }
 
-// Recibe la opción elegida por el usuario y ejecuta su función correspondiente
+// Recibe la opción elegida por el usuario y ejecuta su función correspondiente.
 void opciones(int opcion)
 {
     switch (opcion)
@@ -146,15 +144,22 @@ void opciones(int opcion)
     }
 }
 
+// Programa Principal.
 void main()
 {
-    int user, pin, opcion;
+    int cantClientes = 10, // Cantidad de clientes.
+        user,
+        pin,
+        opcion; 
 
-    carga();
+    struct usuario cliente[cantClientes]; // Array de clientes.
+
+
+    carga(cliente);
 
     while (1)
     {
-        if (sesion())
+        if (sesion(cliente))
         {
             do
             {
